@@ -5,11 +5,11 @@ CAD Files for Ventilator Parts
 <strong>Collaborators</strong>
 </p>
 
-Design and optimization:
-Tommaso Di Ianni (Stanford Postdoctoral Fellow, Airan Lab)
-Jeffrey Wang (Stanford MSTP, PhD Student in Biophysics, Airan Lab)
-Brenda Yu (Stanford PhD Student in Biophysics, Airan Lab)
-Raag D. Airan (Stanford Medicine Assistant Professor)
+<p>Design and optimization:<br>
+Tommaso Di Ianni (Stanford Postdoctoral Fellow, Airan Lab)<br>
+Jeffrey Wang (Stanford MSTP, PhD Student in Biophysics, Airan Lab)<br>
+Brenda Yu (Stanford PhD Student in Biophysics, Airan Lab)<br>
+Raag D. Airan (Stanford Medicine Assistant Professor)</p>
 
 Testing and implementation:
 Rebecca Aslakson MD, PhD (Stanford Health Critical Care Team)
