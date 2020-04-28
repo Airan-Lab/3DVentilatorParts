@@ -11,9 +11,11 @@ CAD Files for Ventilator Parts
 * Brenda Yu (Stanford PhD Student in Biophysics, Airan Lab)<br>
 * Raag D. Airan (Stanford Medicine Assistant Professor)</p>
 
-Testing and implementation:
-Rebecca Aslakson MD, PhD (Stanford Health Critical Care Team)
-Kristen Merriman and Dwayne Free (Stanford Health Respiratory Care Team)
+<p>Testing and implementation:<br>
+* Rebecca Aslakson MD, PhD (Stanford Health Critical Care Team)<br>
+* Kristen Merriman (Stanford Health Respiratory Care Team)<br>
+* Dwayne Free (Stanford Health Respiratory Care Team)</p>
 
-Printing, manufacturing, and materials consultation:
-Chris Le Castillo and Kyle Gifford (Stanford Medicine 3D and Quantitative Imaging Laboratory)
+<p>Printing, manufacturing, and materials consultation:<br>
+* Chris Le Castillo (Stanford Medicine 3D and Quantitative Imaging Laboratory)<br>
+* Kyle Gifford (Stanford Medicine 3D and Quantitative Imaging Laboratory)</p>
