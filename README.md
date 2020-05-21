@@ -18,5 +18,5 @@ CAD Files for Ventilator Parts
 
 <p>Printing, manufacturing, and materials consultation:<br>
 * Chris Le Castillo (Stanford Medicine 3D and Quantitative Imaging Laboratory)<br>
-* Kyle Gifford (Stanford Medicine 3D and Quantitative Imaging Laboratory)
+* Kyle Gifford (Stanford Medicine 3D and Quantitative Imaging Laboratory)<br>
 * Marie-Anne Valiquette (Stanford Medicine 3D and Quantitative Imaging Laboratory) </p>
